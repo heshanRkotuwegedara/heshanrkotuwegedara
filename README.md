@@ -1,7 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Heshan Rathsara Kotuwe Gedara</h1>
 <h3 align="center">Undergraduate Student at SLIIT</h3>
-<img align = "right" alt ="Coding-guy" width="400" src ="https://camo.githubusercontent.com/9f7c1bcc7bdd77433281866118d1dadc107ec9942f6ba82a6679fabbbe3ef80e/68747470733a2f2f676973742e6769746875622e636f6d2f64656570616b6268616d6c612f61636436333537386231333535366230316333666139613636336536343366352f7261772f376664623435366338346466366437303239346536373365636264653034323061356333363666382f68656c6c6f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20605834&label=Profile%20views&color=0e75b6&style=flat" alt="it20605834" /> </p>
 
@@ -15,9 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/heshan-rathsara-kotuwe-gedara-229303175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heshan-rathsara-kotuwe-gedara-229303175" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/heshan-rathsara-kotuwe-gedara-229303175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heshan-rathsara-kotuwe-gedara-229303175" height="30" width="40" /></a>
 <a href="https://instagram.com/h_e_s_h_a_n_r_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_e_s_h_a_n_r_k" height="30" width="40" /></a>
 <a href="https://medium.com/@heshanrathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@heshanrathsara" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@heshansliit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@heshansliit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
