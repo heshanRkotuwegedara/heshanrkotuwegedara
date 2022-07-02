@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Heshan Rathsara Kotuwe Gedara</h1>
 <h3 align="center">Undergraduate Student at SLIIT</h3>
 <img align = "right" alt ="Coding-guy" width="400" src ="https://camo.githubusercontent.com/9f7c1bcc7bdd77433281866118d1dadc107ec9942f6ba82a6679fabbbe3ef80e/68747470733a2f2f676973742e6769746875622e636f6d2f64656570616b6268616d6c612f61636436333537386231333535366230316333666139613636336536343366352f7261772f376664623435366338346466366437303239346536373365636264653034323061356333363666382f68656c6c6f2e676966">
