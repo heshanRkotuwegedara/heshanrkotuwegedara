@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <a href="https://linkedin.com/in/heshan-rathsara-kotuwe-gedara-229303175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heshan-rathsara-kotuwe-gedara-229303175" height="30" width="40" /></a>
 <a href="https://instagram.com/h_e_s_h_a_n_r_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_e_s_h_a_n_r_k" height="30" width="40" /></a>
 <a href="https://medium.com/@heshanrathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@heshanrathsara" height="30" width="40" /></a>
