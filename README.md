@@ -1,4 +1,4 @@
-![MasterHead]<img src="https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630"/>
+<img src="https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630"/>
 <h1 align="center">Hi 👋, I'm Heshan Rathsara Kotuwe Gedara</h1>
 <h3 align="center">Undergraduate Student at SLIIT</h3>
 
