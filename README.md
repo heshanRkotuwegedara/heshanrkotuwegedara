@@ -1,6 +1,8 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2021-02-04-how-we-illustrate-at-github%2F&psig=AOvVaw29QX7Tiup4U8WZkPq50Nfn&ust=1666666587648000&source=images&cd=vfe&ved=0CA4QjhxqFwoTCOiR9IPv9_oCFQAAAAAdAAAAABAI"/>
+<p align="center">
+<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.webp?resize=1200%2C630"/>
 <h1 align="center">Hi 👋, I'm Heshan Rathsara Kotuwe Gedara</h1>
 <h3 align="center">Undergraduate Student at SLIIT</h3>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshanrkotuwegedara&label=Profile%20views&color=0e75b6&style=flat" alt="heshanrkotuwegedara" /> </p>
 
