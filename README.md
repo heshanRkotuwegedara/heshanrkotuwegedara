@@ -1,4 +1,4 @@
-<img src="https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2021-02-04-how-we-illustrate-at-github%2F&psig=AOvVaw29QX7Tiup4U8WZkPq50Nfn&ust=1666666587648000&source=images&cd=vfe&ved=0CA4QjhxqFwoTCOiR9IPv9_oCFQAAAAAdAAAAABAI"/>
 <h1 align="center">Hi 👋, I'm Heshan Rathsara Kotuwe Gedara</h1>
 <h3 align="center">Undergraduate Student at SLIIT</h3>
 
