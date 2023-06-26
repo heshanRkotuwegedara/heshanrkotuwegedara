@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@heshanrathsara](https://medium.com/@heshanrathsara)
 
-- 💬 Ask me about ** ASP.NET, C#, SQL **
+- 💬 Ask me about **ASP.NET, C#, SQL**
 
 - 📫 How to reach me **heshansliit@gmial.com**
 
