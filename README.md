@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshanrkotuwegedara&label=Profile%20views&color=0e75b6&style=flat" alt="heshanrkotuwegedara" /> </p>
 
-- 🔭 I’m currently working on [Aqua-Life](https://github.com/WAPiumiNavoda/AquaLife-System.git)
+- 🔭 I’m currently Enjoy My Vacation
 
 - 🌱 I’m currently learning **MERN**
 
 - 📝 I regularly write articles on [https://medium.com/@heshanrathsara](https://medium.com/@heshanrathsara)
 
-- 💬 Ask me about **Android , .NET , MERN**
+- 💬 Ask me about **ASP.NET, C#, SQL **
 
 - 📫 How to reach me **heshansliit@gmial.com**
 
