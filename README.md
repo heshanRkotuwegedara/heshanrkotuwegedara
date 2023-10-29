@@ -16,6 +16,9 @@
 
 - 📫 How to reach me **heshansliit@gmial.com**
 
+- **Scan Me**
+<img src= "https://github.com/heshanRkotuwegedara/heshanrkotuwegedara/assets/88552872/cd57e475-5f8c-4890-a701-faf065f99ac4" width="100" height="100">
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
