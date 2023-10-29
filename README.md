@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshanrkotuwegedara&label=Profile%20views&color=0e75b6&style=flat" alt="heshanrkotuwegedara" /> </p>
 
-- 🔭 I’m currently Busy with my acedamics
+- 🔭 I’m currently Busy with my academics
 
 - 🌱 I’m currently learning **MERN**
 
