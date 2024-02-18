@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.webp?resize=1200%2C630"/>
+<img src="https://github.com/heshanRkotuwegedara/heshanrkotuwegedara/assets/88552872/54e80145-b419-404b-8bb4-9c354d4ff85a" width="400" height="400" />
 <h1 align="center">Hi 👋, I'm Heshan Rathsara Kotuwe Gedara</h1>
 <h3 align="center">Undergraduate Student at SLIIT</h3>
 </p>
